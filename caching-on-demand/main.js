@@ -5,7 +5,7 @@ export async function onClientRequest(request) {
 	var cachingFlagFromEdgeKv = 0;
 	var servicePath = request.path.split('/')[2];
 
-	const edgeKv = new EdgeKV({namespace: "msuzuki", group: "services"});
+	const edgeKv = new EdgeKV({namespace: "demo", group: "services"});
 
 	try {
 	cachingFlagFromEdgeKv = await edgeKv.getText({ item: servicePath, default_value: default_cachingFlag });
