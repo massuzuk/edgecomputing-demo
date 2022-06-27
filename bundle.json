@@ -1,0 +1,10 @@
+{
+  "edgeworker-version": "20.01",
+  "bundle-version": 20,
+  "api-version": "0.2",
+  "description": "Test",
+  "misc": {
+    "author": "Test",
+    "lastUpdate": "June 24, 2022"
+  }
+}
