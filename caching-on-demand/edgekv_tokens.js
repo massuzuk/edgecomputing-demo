@@ -1,7 +1,7 @@
 var edgekv_access_tokens = {
-        "namespace-msuzuki": {
-            "name": "msuzuki_token1",
-	    "value": "input_your_jwt_token"
+        "namespace-demo": {
+            "name": "input_your_token_name",
+	    "value": "input_your_token"
 
         }
 }
