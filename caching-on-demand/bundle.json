@@ -1,7 +1,7 @@
 {
-  "edgeworker-version": "20.01",
-  "bundle-version": 20,
-  "api-version": "0.2",
+  "edgeworker-version": "1.00",
+  "bundle-version": 1,
+  "api-version": "1.0",
   "description": "Test",
   "misc": {
     "author": "Test",
